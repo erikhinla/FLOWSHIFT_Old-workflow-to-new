@@ -1,0 +1,7 @@
+{
+  "name": "FlowShift: AI-Native Workflow Visualizer",
+  "description": "A high-fidelity visualization of the transformation from traditional to AI-native workflows, featuring an integrated AI image editing lab powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
